@@ -48,3 +48,4 @@ Simulation demonstrates the pipelined nature of execution. During early cycles, 
 
 This pipelined processor design exemplifies the efficient execution of instructions using basic pipelining techniques. It lays the foundation for more advanced features like forwarding, hazard detection, and branching. The project reinforces key digital design principles and encourages exploration of more complex instruction sets and processor enhancements.
 # Output
+![Image](https://github.com/user-attachments/assets/a315cf93-797e-4685-8457-2a5d694ce2dc)
